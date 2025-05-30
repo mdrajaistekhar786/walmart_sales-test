@@ -60,7 +60,7 @@ SELECT
   AVG(rating) AS avg_rating
 FROM walmart
 GROUP BY city, category;
-
+'''
 
 12. Project Publishing and Documentation
     
